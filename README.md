@@ -4,3 +4,12 @@ This dashboard helps to find pass rate of students, average sgpa and average cgp
 
 ## Dataset used
 -<a href="https://github.com/asthanavishal702-prog/College_Result_Dashboard/blob/main/Vishal%20Data%20Analysis%20(1).xlsx">Dataset</a>
+
+## Questions (KPIs)
+1.	Total no. of students?
+2.	Pass rate?
+3.	Average SGPA?
+4.	Average CGPA?
+5.	Most Difficult Subject?
+
+## Dashboard
