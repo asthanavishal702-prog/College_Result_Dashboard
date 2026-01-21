@@ -13,3 +13,4 @@ This dashboard helps to find pass rate of students, average sgpa and average cgp
 5.	Most Difficult Subject?
 
 ## Dashboard
+https://github.com/asthanavishal702-prog/College_Result_Dashboard/blob/main/Screenshot%202026-01-21%20143242.png
