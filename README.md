@@ -1,2 +1,6 @@
-# College_Result_Dashboard
-I have created a comprehensive project in Excel by creating dashboards and tables to analyze the data. It includes various steps like data preprocessing, data cleaning and data visualization.
+# College Result Analysis (Interactive Dashboard using Excel)
+## Project Objective
+This dashboard helps to find pass rate of students, average sgpa and average cgpa and which is the most difficult subject.
+
+## Dataset used
+https://www.kaggle.com/code/lukhilaksh/college-exam-result-eda
